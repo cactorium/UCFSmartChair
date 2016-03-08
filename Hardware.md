@@ -57,3 +57,5 @@ A small flathead screwdriver is very useful from removing this chip, and buy a f
 This guy has everything else. GPS, Bluetooth, and a Tiva C. 
 Everything works except for the Tiva C socket, which seems to consistently destroy chips.
 So we have a dev board soldered on the appropriate GPIO pins effectively.
+
+(TODO: finish writing this)
